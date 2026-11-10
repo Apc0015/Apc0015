@@ -4,7 +4,7 @@
 Building **Governed Enterprise RAG, Multi-Agent Operating Systems, and Automated LLM Evaluation Frameworks**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Chhoker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apc15)
-[![Email](https://img.shields.io/badge/Email-ayushchhoker%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushchhoker@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Ayushchhoker15%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:Ayushchhoker15@outlook.com)
 [![Location](https://img.shields.io/badge/Location-New_York-10B981?style=flat-square)](https://github.com/Apc0015)
 
 ---
