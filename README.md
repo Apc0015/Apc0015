@@ -14,7 +14,7 @@ Graduate Research Assistant @ **AIX Lab** — Building **Production RAG Pipeline
 
 LLM and GenAI Engineer with 3+ years of combined industry and research experience designing retrieval architectures, running systematic LLM experiments (Design of Experiments on GCP H100 VMs), and shipping end-to-end agentic applications:
 
-- **Synthetic RAG Benchmarking (`RAG Spectrum`):** Engineered a 25-category (`D01–D25`) synthetic RAG challenge generator with multi-layer reliability and exact/fuzzy/semantic deduplication (React + FastAPI).
+- **Synthetic RAG Benchmarking (`RAG Spectrum` / `Prism`):** Engineered a 27-category (`D01–D27`) synthetic RAG challenge generator with multi-layer reliability and exact/fuzzy/semantic deduplication (React + FastAPI).
 - **Statistical RAG Evaluation (`Manthan`):** Built a full-stack RAG evaluation and experiment-optimization platform using **Design of Experiments (DoE)** — fractional factorial designs, blocked ANOVA, Tukey HSD, and bootstrap confidence intervals.
 - **Governed Enterprise RAG (`Aegis` / `RAPID`):** Architected privacy-first multi-agent RAG platforms with pre-LLM data firewalls, role/row/column-level access control (RBAC), hybrid Qdrant/FAISS + BM25 retrieval, and audit logging.
 - **AI Workforce Governance (`Pramana`):** Designing deterministic execution gates, policy enforcement, and verifiable lineage for autonomous agent workflows.
@@ -55,7 +55,7 @@ LLM and GenAI Engineer with 3+ years of combined industry and research experienc
 | :--- | :--- | :--- |
 | **[Aegis](https://github.com/Apc0015/Aegis)** | Privacy-First Governed RAG | Enterprise multi-agent RAG with pre-LLM data firewall (ALLOW / ANONYMIZE / BLOCK), hybrid Qdrant + BM25 retrieval, read-only SQL agent, confidence-gated routing, and React + FastAPI + Docker + Nginx stack. |
 | **[Manthan](https://github.com/Apc0015/Manthan-core)** | RAG Evaluation & DoE Platform | Full-stack RAG evaluation & experiment optimization applying Fractional Factorial DoE, blocked ANOVA, Tukey HSD, and bootstrap CI to benchmark retrieval/generation pipelines and cost. |
-| **[RAG Spectrum](https://github.com/Apc0015/RAG-Spectrum-core)** | Synthetic Benchmark Engine | Generates 25 challenge dataset types (`D01–D25`) with exact/fuzzy/semantic deduplication and async batch processing for OpenRouter & Ollama (React + FastAPI). |
+| **[RAG Spectrum (Prism)](https://github.com/Apc0015/Prism11)** | Synthetic Benchmark Engine | Generates 27 challenge dataset types (`D01–D27`) with exact/fuzzy/semantic deduplication, evaluation suite, and async batch processing for OpenRouter & Ollama (React + FastAPI). |
 | **[Pramana](https://github.com/Apc0015/Pramana)** | AI Workforce Governance | Deterministic trust and execution foundation for autonomous agents with policy gates and verifiable execution lineage. |
 | **[ARIA](https://github.com/Apc0015/ARIA)** | Agentic Research Intelligence | Multi-agent research workspace with multi-query expansion, PDF ingestion, source credibility scoring, and traceable evidence chains. |
 | **[CardioFusion](https://github.com/Apc0015/Cardio)** | Clinical ML & Explainable AI | Hybrid ensemble cardiovascular risk platform (XGBoost, Random Forest, Neural Net) with SMOTE balancing (95.2% F1, 98.6% ROC-AUC) and SHAP explainability ([Live App](https://cardio-7ju34z7mh8sbn8fddyj2p8.streamlit.app)). |
