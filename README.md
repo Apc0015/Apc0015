@@ -63,7 +63,7 @@ LLM and GenAI Engineer with 3+ years of combined industry and research experienc
 | Project | Domain | Architecture & Key Outcomes |
 | :--- | :--- | :--- |
 | **[RAPID](https://github.com/Apc0015/Rapid)** | Privacy-First Governed RAG | Enterprise multi-agent RAG with pre-LLM data firewall (ALLOW / ANONYMIZE / BLOCK), hybrid Qdrant/FAISS + BM25 retrieval, read-only SQL agent, confidence-gated routing, and React + FastAPI + Docker + Nginx stack. |
-| **[Manthan](https://github.com/Apc0015/Manthan-core)** | RAG Evaluation & DoE Platform | Full-stack RAG evaluation & experiment optimization applying Fractional Factorial DoE, blocked ANOVA, Tukey HSD, and bootstrap CI to benchmark retrieval/generation pipelines and cost. |
+| **[Manthan](https://github.com/Apc0015/Manthan)** | RAG Evaluation & DoE Platform | Full-stack RAG evaluation & experiment optimization applying Fractional Factorial DoE, blocked ANOVA, Tukey HSD, and bootstrap CI to benchmark retrieval/generation pipelines and cost. |
 | **[RAG Spectrum](https://github.com/Apc0015/RAG-Spectrum)** | Synthetic Benchmark Engine | Generates 25 challenge dataset types (`D01–D25`) with exact/fuzzy/semantic deduplication, evaluation suite, and async batch processing for OpenRouter & Ollama (React + FastAPI) · [[Live Demo](https://apc15-prism.hf.space/)]. |
 | **[Pramana](https://github.com/Apc0015/Pramana)** | AI Workforce Governance | Deterministic trust and execution foundation for autonomous agents with policy gates and verifiable execution lineage. |
 | **[ARIA](https://github.com/Apc0015/ARIA)** | Agentic Research Intelligence | Multi-agent research workspace with multi-query expansion, PDF ingestion, source credibility scoring, and traceable evidence chains. |
